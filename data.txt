@@ -1,4 +1,7 @@
 Ryan,23
 Boby,22
 Ran,25
-Boy, 32
+Boy,32
+Donald Trump,40
+Naruto,17
+Donald Duck,75
