@@ -3,7 +3,9 @@
 ### Pancasila
 - Ketuhanan yang maha esa
 - Kemanusiaan yang adil dan beradap
-- TODO
+- Persatuan Indonesia
+- Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dan permusyawaratan / keadilan
+- Keadilan sosial bagi seluruh rakyat Indonesia
 ### Kemerdekaan
 17 Agustus 1945
 
@@ -18,10 +20,8 @@
 3. Add other contributors
 4. Fork the repository
 5. Take a bath
-6. Take a selfie
-7. Go to Work
 
-## Contributors needed
-Hi! I need your help to fill this repository. If you want to participate, please create a new .md file in this repository, named (nomor-kelompok).md, and write each of your name inside the file 
+## Contributors needed.
+HI! I need your help to fill this repository. If you want to participate, lease create a new .md file in this repository, named [5].md, and write each of your name inside the file
 
-
+Thanks!
