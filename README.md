@@ -6,6 +6,7 @@
 - Persatuan Indonesia
 - Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dan permusyawaratan / keadilan
 - Keadilan sosial bagi seluruh rakyat Indonesia
+
 ### Kemerdekaan
 17 Agustus 1945
 
