@@ -15,3 +15,11 @@ Patrick,21
 Belibis,24
 Chitato,27
 Momogi,15
+Female,25
+Bintang,18
+Pria,25
+Dewi Z,27
+Firli,25
+Lia,24
+Dewi S,26
+Siwi,28
