@@ -6,3 +6,8 @@
 - TODO
 ### Kemerdekaan
 17 Agustus 1945
+
+## Contributors Hall of Fame
+- chrisandoryan
+- budijuwono
+- robinvangogh
