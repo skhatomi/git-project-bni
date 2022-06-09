@@ -16,3 +16,4 @@
 1. Create function for authentication
 2. Add Trello board to README
 3. Add other contributors
+4. Fork the repository
