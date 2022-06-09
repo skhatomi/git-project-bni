@@ -1,3 +1,6 @@
+Dewi,123456Dewi
+Ghif,Ghif123456
+Sri,Adminaja
 Ryan,123456Ryan
 Boby,HelloKitty37
 Thompson,adminadmin
