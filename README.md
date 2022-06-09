@@ -3,6 +3,7 @@
 ### Pancasila
 - Ketuhanan yang maha esa
 - Kemanusiaan yang adil dan beradap
+- Persatuan Indonesia
 - TODO
 ### Kemerdekaan
 17 Agustus 1945
